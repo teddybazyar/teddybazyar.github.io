@@ -76,6 +76,9 @@ ul, ol {
 li {
     margin-bottom: 4px;
 }
+img { 
+    border: 0; 
+}
 
 /* Footer */
 footer {
